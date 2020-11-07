@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto&display=swap");
+
+body {
+  font-family: "Roboto", "Noto Sans JP", sans-serif;
+}
+
+body li {
+  padding-left: 5px !important;
+  margin-bottom: 5px;
+}
+
+#publications .has-text-centered ol {
+  text-align: left !important;
+  margin-left: 0px;
+}
+
+#patents .has-text-centered ol {
+  text-align: left !important;
+  margin-left: 0px;
+}
+
+#talks .has-text-centered ol {
+  text-align: left !important;
+  margin-left: 0px;
+}
+
+#awards .has-text-centered ul {
+  text-align: left !important;
+  margin-left: 0px;
+}
+
+#service .has-text-centered ul {
+  text-align: left !important;
+  margin-left: 0px;
+}
+
+#publications .markdown h2 {
+  font-size: 30px;
+  text-align: left;
+}
+
+#about .markdown h2 {
+  font-size: 25px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 25px;
+}
