@@ -16,7 +16,31 @@ weight: 10
 - ソフトウェアテスティング
 
 ## Career
-
-- 2015年 日本電信電話株式会社 入社
-- 2015年 大阪大学大学院 情報科学研究科 コンピュータサイエンス専攻 <br> 博士前期課程 修了
-- 2013年 大阪大学 情報科学研究科 中退 (飛び級)
+<table class="career">
+    <tbody>
+        <tr>
+            <td class="year">2020年</td>
+            <td class="year">&ndash;</td>
+            <td class="year">現在:</td>
+            <td class="desc">大阪大学大学院 情報科学研究科 <br> コンピュータサイエンス専攻 博士後期課程</td>
+        </tr>
+        <tr>
+            <td class="year">2015年</td>
+            <td class="year">&ndash;</td>
+            <td class="year">現在:</td>
+            <td class="desc">NTT ソフトウェアイノベーションセンタ</td>
+        </tr>
+        <tr>
+            <td class="year">2013年</td>
+            <td class="year">&ndash;</td>
+            <td class="year">2015年:</td>
+            <td class="desc">大阪大学大学院 情報科学研究科 <br> コンピュータサイエンス専攻 博士前期課程</td>
+        </tr>
+        <tr>
+            <td class="year">2010年</td>
+            <td class="year">&ndash;</td>
+            <td class="year">2013年:</td>
+            <td class="desc">大阪大学大学院 情報科学研究科 (飛び級のため中退)</td>
+        </tr>
+    </tbody>
+</table>

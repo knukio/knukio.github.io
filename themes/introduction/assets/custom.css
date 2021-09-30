@@ -45,3 +45,36 @@ body li {
   margin-bottom: 5px;
   margin-left: 25px;
 }
+
+.column.is-one-third, .column.is-one-third-tablet {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.markdown table {
+  border: 0px none;
+  margin: 0 0 0 1.5em;
+}
+
+.markdown td, .markdown th {
+  border: 0px none;
+  background-color: #ffffff
+}
+
+.markdown tbody tr:nth-child(odd) td, .markdown tbody tr:nth-child(odd) th {
+  background-color: #ffffff
+}
+
+.markdown tbody tr:nth-child(even) td, .markdown tbody tr:nth-child(even) th {
+  background-color: #ffffff
+}
+
+.year {
+  padding: 0px !important;
+}
+
+.desc {
+  padding-top: 0px !important;
+  text-align: left !important;
+}
