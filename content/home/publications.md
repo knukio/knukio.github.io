@@ -6,6 +6,9 @@ weight: 20
 
 ## 国際会議論文
 
+1. **Hiroyuki Kirinuki**, Shinsuke Matsumoto, Yoshiki Higo, Shinji Kusumoto: 
+   "NLP-assisted Web Element Identification Toward Script-free Testing", 
+   The 37th International Conference on Software Maintenance and Evolution (ICSME2021) [NIER Track].
 1. **Hiroyuki Kirinuki**, Toshiyuki Kurabayashi, Haruto Tanno, Ippei Kumagawa:
    "SONAR Testing － Novel Testing Approach Based on Operation Recording and Visualization",
    International Conference on Software Testing, Verification, and Validation (ICST2020) [Poster].
@@ -14,10 +17,10 @@ weight: 20
    The 26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019), March 2019.
 1. Keigo Naitou, Akito Tanikado, Shinsuke Matsumoto, Yoshiki Higo, Shinji Kusumoto, **Hiroyuki Kirinuki**, Toshiyuki Kurabayashi, Haruto Tanno:
    "Toward Introducing Automated Program Repair Techniques to Industrial Software Development",
-   International Conference on Program Comprehension (ICPC 2018) [Early Research Achievement], May 2018.
+   International Conference on Program Comprehension (ICPC2018) [Early Research Achievement], May 2018.
 1. Toshiyuki Kurabayashi, Muneyoshi Iyama, **Hiroyuki Kirinuki**, Haruto Tanno:
    "Automatically Generating Test Scripts for GUI Testing",
-   1st IEEE Workshop on NEXt level of Test Automation (NEXTA 2018), April 2018.
+   1st IEEE Workshop on NEXt level of Test Automation (NEXTA2018), April 2018.
 1. **Hiroyuki Kirinuki**, Yoshiki Higo, and Shinji Kusumoto: "Splitting Commits Via Past Code Changes," In Proc. of the 23rd Asia-Pacific Software Engineering Conference (APSEC2016), pages 129-136, December 2016.
 1. **Hiroyuki Kirinuki**, Yoshiki Higo, Keisuke Hotta, and Shinji Kusumoto, "Hey! Are You Committing Tangled Changes?": In Proceedings of the 22nd International Conference on Program Comprehension(ICPC2014), pages 262-265, June 2014.
 
@@ -28,7 +31,7 @@ weight: 20
    情報処理学会論文誌.
 1. **Hiroyuki Kirinuki**, Haruto Tanno, Katsuyuki Natsukawa:
    "Recommending Correct Locator for Broken Test Scripts using Various Clues in Web Application",
-   Computer Software , Vol. 36, No. 4, pp. 4_3-4_17, 2019.
+   Computer Software, Vol. 36, No. 4, pp. 4_3-4_17, 2019.
 1. 丹野 治門, 倉林 利行, 張 暁晶, 伊山 宗吉, 安達 悠, 岩田 真治, **切貫 弘之**:
    "テスト入力値生成技術の研究動向",
    コンピュータソフトウェア, Vol. 34, No. 3, pp. 3_121-3_147, 2017.
