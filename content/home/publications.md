@@ -4,7 +4,7 @@ draft: false
 weight: 20
 ---
 
-## 国際会議論文
+## International Conference
 
 1. **Hiroyuki Kirinuki**, Shinsuke Matsumoto, Yoshiki Higo, and Shinji Kusumoto: "Web Element Identification by Combining NLP and Heuristic Search for Web Testing", The 29th International Conference on Software Analysis, Evolution and Reengineering (SANER 2022). [[PDF]](https://sdl.ist.osaka-u.ac.jp/pman/pman3.cgi?DOWNLOAD=608)
 1. Hiroto Watanabe, Shinsuke Matsumoto, Yoshiki Higo, Shinji Kusumoto, Toshiyuki Kurabayashi, **Hiroyuki Kirinuki**, and Haruto Tanno: "Applying Multi-Objecttive Genetic Algorithm for Efficient Selection on Program Generation", The 28th Asia-Pacific Software Engineering Conference (APSEC 2021, **<font color="#00b8d4">Best ERA Paper</font>**). [[PDF]](https://sdl.ist.osaka-u.ac.jp/pman/pman3.cgi?DOWNLOAD=589)
@@ -25,7 +25,7 @@ weight: 20
 1. **Hiroyuki Kirinuki**, Yoshiki Higo, and Shinji Kusumoto: "Splitting Commits Via Past Code Changes", The 23rd Asia-Pacific Software Engineering Conference (APSEC 2016).
 1. **Hiroyuki Kirinuki**, Yoshiki Higo, Keisuke Hotta, and Shinji Kusumoto, "Hey! Are You Committing Tangled Changes?": The 22nd International Conference on Program Comprehension (ICPC 2014).
 
-## 学術雑誌論文
+## Journal
 
 1. **Hiroyuki Kirinuki** and Haruto Tanno: "Automating End-to-Endo Web Testing via Manual Testing", Journal of Information Processing, to appear.
 1. 肥後 芳樹, 柗本 真佑, 内藤 圭吾, 谷門 照斗, 楠本 真二, **切貫 弘之**, 倉林 利行, 丹野 治門:
@@ -75,9 +75,9 @@ weight: 20
 
 ## 学会誌・雑誌
 
-1. 丹野 治門, **切貫 弘之**, 川口 敬宏, 但馬 将貴, 生沼 守英, 村本 達也: "繰り返し型の効率的なテストを実現するテスト活動データ分析技術", NTT技術ジャーナル, 2022, Vol 34, No.2, pp.18-21, 2022年 2月. [[Link]](https://journal.ntt.co.jp/article/17191)
-1. Haruto Tanno, **Hiroyuki Kirinuki**, Yu Adachi, Morihide Oinuma, and Tatsuya Muramoto: "Test Automation Technology for Analyzing Test-activity Data and Detecting Bugs", NTT Technical Review, February 2021 Vol. 19 No. 2, February 2021.
-1. **切貫 弘之**, 安達 悠, 丹野 治門: "特集 NTTソフトウェアイノベーションセンタのR&D 探索的テスト支援技術～LatteArtのご紹介～", エンタープライズICT総合誌月刊ビジネスコミュニケーション, 2021年 2月号, 2021年 2月.
-1. 丹野 治門, **切貫 弘之**, 生沼 守英, 安達 悠, 村本 達也: "テスト活動データを分析してバグを狙い撃つテスト自動化技術", NTT技術ジャーナル, 2020, Vol 32, No.12, pp.35-39, 2020年 12月. [[PDF]](https://journal.ntt.co.jp/wp-content/uploads/2020/12/JN20201235_2.pdf)
+1. 丹野 治門, **切貫 弘之**, 川口 敬宏, 但馬 将貴, 生沼 守英, 村本 達也: "繰り返し型の効率的なテストを実現するテスト活動データ分析技術", NTT技術ジャーナル, Vol 34, No.2, pp.18-21, 2022年 2月. [[Link]](https://journal.ntt.co.jp/article/17191)
+1. Haruto Tanno, **Hiroyuki Kirinuki**, Yu Adachi, Morihide Oinuma, and Tatsuya Muramoto: "Test Automation Technology for Analyzing Test-activity Data and Detecting Bugs", NTT Technical Review, February 2021 Vol. 19 No. 2.
+1. **切貫 弘之**, 安達 悠, 丹野 治門: "特集 NTTソフトウェアイノベーションセンタのR&D 探索的テスト支援技術～LatteArtのご紹介～", エンタープライズICT総合誌月刊ビジネスコミュニケーション, 2021年 2月号.
+1. 丹野 治門, **切貫 弘之**, 生沼 守英, 安達 悠, 村本 達也: "テスト活動データを分析してバグを狙い撃つテスト自動化技術", NTT技術ジャーナル, Vol 32, No.12, pp.35-39, 2020年 12月. [[PDF]](https://journal.ntt.co.jp/wp-content/uploads/2020/12/JN20201235_2.pdf)
 1. **切貫 弘之**, 岩塚 卓弥, 倉林 利行: "テストプロセスの変革～セキュリティテストと探索的テスト～",月刊ビジネスコミュニケーションズ 2020年 2月号, pp. 40-41.
 1. 山下 一寛, **切貫 弘之**: "SANER2019 参加報告", 情報処理 2019年 8月号.
