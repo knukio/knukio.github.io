@@ -27,7 +27,7 @@ weight: 20
 
 ## Journal
 
-1. **Hiroyuki Kirinuki** and Haruto Tanno: "Automating End-to-Endo Web Testing via Manual Testing", Journal of Information Processing, Vol. 30, pp. 294-306, 2022 (**<font color="#00b8d4">Specially Selected Paper</font>**). [[PDF]](https://www.jstage.jst.go.jp/article/ipsjjip/30/0/30_294/_pdf/-char/en)
+1. **Hiroyuki Kirinuki** and Haruto Tanno: "Automating End-to-End Web Testing via Manual Testing", Journal of Information Processing, Vol. 30, pp. 294-306, 2022 (**<font color="#00b8d4">Specially Selected Paper</font>**). [[PDF]](https://www.jstage.jst.go.jp/article/ipsjjip/30/0/30_294/_pdf/-char/en)
 1. 肥後 芳樹, 柗本 真佑, 内藤 圭吾, 谷門 照斗, 楠本 真二, **切貫 弘之**, 倉林 利行, 丹野 治門:
    "設定ファイルを考慮した Fault Localization の拡張",
    情報処理学会論文誌 ソフトウェア工学特集, Vol. 61, No. 4, pp. 884-894, 2020.
