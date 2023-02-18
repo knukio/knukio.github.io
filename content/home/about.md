@@ -15,7 +15,7 @@ weight: 10
 - 実証的ソフトウェア工学
 - ソフトウェアテスティング
 
-## [Google Scholar](https://scholar.google.co.jp/citations?user=BCusIZwAAAAJ&hl=ja&oi=sra)
+## [Google Scholar](https://scholar.google.co.jp/citations?user=BCusIZwAAAAJ)
 <br>
 
 ## Career
