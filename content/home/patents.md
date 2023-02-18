@@ -4,6 +4,17 @@ draft: false
 weight: 40
 ---
 
+1. Y Yoshimura, Y Adachi, H Tanno, **H Kirinuki**, T Kurabayashi: Operation pattern generation apparatus, operation pattern generation method and program, US Patent App. 17/774,895.
+1. Y Adachi, H Tanno, Y Yoshimura, **H Kirinuki**, T Kurabayashi: Test data generation apparatus, test data generation method and program, US Patent App. 17/777,959.
+1. T Kurabayashi, H Tanno, M Iyama, **H Kirinuki**: Screen discrimination apparatus, screen discrimination method and program, US Patent 11,481,546.
+1. T Kurabayashi, H Tanno, Y Adachi, **H Kirinuki**, Y Yoshimura: Test script generation apparatus, test script generation method and program, US Patent App. 17/615,057.
+1. T Kurabayashi, H Tanno, Y Adachi, **H Kirinuki**, Y Yoshimura: Screen transition consolidation apparatus, screen transition consolidation method and program, US Patent App. 17/615,066.
+1. Y Adachi, H Tanno, **H Kirinuki**, Y Yoshimura, T Kurabayashi: Analysis apparatus, analysis method and program, US Patent App. 17/601,885
+1. **H Kirinuki**, H Tanno, T Kurabayashi: Test apparatus, test method and program, US Patent App. 17/610,636.
+1. Y Adachi, H Tanno, T Kurabayashi, Y Yoshimura, **H Kirinuki**: Test apparatus, test method and program, US Patent App. 17/609,291.
+1. H Tanno, **H Kirinuki**, T Kurabayashi, Y Yoshimura, Y Adachi: Input value setting assisting apparatus, input value setting assisting method and program, US Patent App. 17/601,892.
+1. Y Yoshimura, H Tanno, Y Adachi, **H Kirinuki**, T Kurabayashi: Resembling transition identifying apparatus, resembling transition identifying method and program, US Patent App. 17/602,280.
+1. **H Kirinuki**, T Kurabayashi, H Tanno: Test data generation apparatus, test data generation method and program, US Patent App. 17/288,352.
 1. 丹野 治門, 倉林 利行, **切貫 弘之**, 肥後 芳樹, まつ本 真佑, 楠本 真二: "バグ同定支援装置、バグ同定支援方法及びプログラム", 出願番号: 特願2019-117779 (P2019-117779), 出願日: 2019年6月25日, 公開番号: 特開2021-5171 (P2021-5171A), 公知日: 2021年1月14日
 1. 吉村 優, 丹野 治門, 安達 悠, **切貫 弘之**, 倉林 利行: "類似遷移特定装置、類似遷移特定方法及びプログラム", 出願番号: 特願2019-075121, 出願日: 2019年4月10日, 公開番号: 特開2020-173615, 公知日: 2020年10月22日
 1. 丹野 治門, **切貫 弘之**, 倉林 利行, 吉村 優, 安達 悠: "入力値設定補助装置、入力値設定補助方法及びプログラム", 出願番号: 特願2019-074723, 出願日: 2019年4月10日, 公開番号: 特開2020-173592, 公知日: 2020年10月22日

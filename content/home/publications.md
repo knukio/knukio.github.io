@@ -6,6 +6,8 @@ weight: 20
 
 ## International Conference
 
+1. **Hiroyuki Kirinuki**, Masaki Tajima, Haruto Tanno: "LatteArt: A Platform for Recording and Analyzing Exploratory Testing", The 16th IEEE International Conference on Software Testing, Verification and Validation (ICST2023, Testing Tools Track), to appear.
+1. Riku Takaichi, Yoshiki Higo, Shinsuke Matsumoto, Shinji Kusumoto, Toshiyuki Kurabayashi, **Hiroyuki Kirinuki**, Haruto Tanno: "Are NLP Metrics Suitable for Evaluating Generated Code?", The 23rd International Conference on Product-Focused Software Process Improvement (PROFES2022, Poster). [[PDF]](https://sdl.ist.osaka-u.ac.jp/pman/pman3.cgi?DOWNLOAD=627)
 1. **Hiroyuki Kirinuki**, Shinsuke Matsumoto, Yoshiki Higo, and Shinji Kusumoto: "Web Element Identification by Combining NLP and Heuristic Search for Web Testing", The 29th International Conference on Software Analysis, Evolution and Reengineering (SANER 2022). [[PDF]](https://sdl.ist.osaka-u.ac.jp/pman/pman3.cgi?DOWNLOAD=608)
 1. Hiroto Watanabe, Shinsuke Matsumoto, Yoshiki Higo, Shinji Kusumoto, Toshiyuki Kurabayashi, **Hiroyuki Kirinuki**, and Haruto Tanno: "Applying Multi-Objecttive Genetic Algorithm for Efficient Selection on Program Generation", The 28th Asia-Pacific Software Engineering Conference (APSEC 2021, **<font color="#00b8d4">Best ERA Paper</font>**). [[PDF]](https://sdl.ist.osaka-u.ac.jp/pman/pman3.cgi?DOWNLOAD=589)
 1. **Hiroyuki Kirinuki**, Shinsuke Matsumoto, Yoshiki Higo, and Shinji Kusumoto: "NLP-assisted Web Element Identification Toward Script-free Testing",
@@ -27,19 +29,22 @@ weight: 20
 
 ## Journal
 
+1. 渡辺 大登，柗本 真佑，肥後 芳樹，楠本 真二，倉林 利行，**切貫 弘之**，丹野 治門: "自動プログラム生成に対する多目的遺伝的アルゴリズムの導入　–相補的な個体選択を目的として–", 情報処理学会論文誌, Vol.63, No.10, pp.1564-1573, 2022.
+1. 倉林 利行, 丹野 治門, **切貫 弘之**, 大島 剛志: "プログラム合成技術の動向調査", コンピュータソフトウェア, 2023, to appear.
 1. **Hiroyuki Kirinuki** and Haruto Tanno: "Automating End-to-End Web Testing via Manual Testing", Journal of Information Processing, Vol. 30, pp. 294-306, 2022 (**<font color="#00b8d4">Specially Selected Paper</font>**). [[PDF]](https://www.jstage.jst.go.jp/article/ipsjjip/30/0/30_294/_pdf/-char/en)
 1. 肥後 芳樹, 柗本 真佑, 内藤 圭吾, 谷門 照斗, 楠本 真二, **切貫 弘之**, 倉林 利行, 丹野 治門:
    "設定ファイルを考慮した Fault Localization の拡張",
-   情報処理学会論文誌 ソフトウェア工学特集, Vol. 61, No. 4, pp. 884-894, 2020.
+   情報処理学会論文誌 ソフトウェア工学特集, Vol. 61, No. 4, pp. 884-894, 2020. [[PDF]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=204333&item_no=1&page_id=13&block_id=8)
 1. **Hiroyuki Kirinuki**, Haruto Tanno, and Katsuyuki Natsukawa:
    "Recommending Correct Locator for Broken Test Scripts using Various Clues in Web Application",
-   Computer Software, Vol. 36, No. 4, pp. 3-17, 2019.
+   Computer Software, Vol. 36, No. 4, pp. 3-17, 2019. [[PDF]](https://www.jstage.jst.go.jp/article/jssst/36/4/36_4_3/_pdf/-char/ja)
 1. 丹野 治門, 倉林 利行, 張 暁晶, 伊山 宗吉, 安達 悠, 岩田 真治, **切貫 弘之**:
    "テスト入力値生成技術の研究動向",
    コンピュータソフトウェア, Vol. 34, No. 3, pp. 121-147, 2017.
 
 ## 国内会議論文
 
+1. 髙市 陸, 肥後 芳樹, 柗本 真佑, 楠本 真二, 倉林 利行, **切貫 弘之**, 丹野 治門: "構文誤りを含むプログラムを評価可能なソースコード用自動評価尺度の調査", 電子情報通信学会技術研究報告, Vol.122, No.138, pp.7-12, 2022年7月.
 1. 但馬 将貴, **切貫 弘之**, 丹野 治門: "ドキュメントの自動生成によるEnd-to-Endテストスクリプトの理解支援", 2021年度「ソフトウェア工学の基礎」研究会 (FOSE), pp. 177-178, 2021年 11月.
 1. 渡辺 大登, 柗本 真佑, 肥後 芳樹, 楠本 真二, 倉林 利行, 吉村 優, **切貫 弘之**, 但馬 将貴, 丹野 治門: "多目的遺伝的アルゴリズムを用いた自動プログラム生成手法の提案 ～プログラミングコンテストを題材として～", 電子情報通信学会技術研究報, vol. 120, no. 407, SS2020-33, pp. 31-36, 2021年 3月.
 1. **切貫 弘之**, 丹野 治門: "手動テストのログを用いた有用な End-to-End テストスクリプトの自動生成", ソフトウェアエンジニアリングシンポジウム 2020 (**<font color="#00b8d4">最優秀論文賞</font>**).
