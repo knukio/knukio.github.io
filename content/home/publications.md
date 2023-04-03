@@ -42,7 +42,7 @@ weight: 20
    "テスト入力値生成技術の研究動向",
    コンピュータソフトウェア, Vol. 34, No. 3, pp. 121-147, 2017.
 
-## 国内会議論文
+## Domestic Conference
 
 1. 髙市 陸, 肥後 芳樹, 柗本 真佑, 楠本 真二, 倉林 利行, **切貫 弘之**, 丹野 治門: "構文誤りを含むプログラムを評価可能なソースコード用自動評価尺度の調査", 電子情報通信学会技術研究報告, Vol.122, No.138, pp.7-12, 2022年7月.
 1. 但馬 将貴, **切貫 弘之**, 丹野 治門: "ドキュメントの自動生成によるEnd-to-Endテストスクリプトの理解支援", 2021年度「ソフトウェア工学の基礎」研究会 (FOSE), pp. 177-178, 2021年 11月.
@@ -66,8 +66,9 @@ weight: 20
 1. **切貫 弘之**, 堀田 圭佑, 肥後 芳樹, 楠本 真二: "修正履歴情報を利用したコミット分割支援手法の提案", ソフトウェアエンジニアリングシンポジウム 2014 (**<font color="#00b8d4">コンピュータサイエンス領域奨励賞</font>**).
 1. **切貫 弘之**, 堀田 圭佑, 肥後 芳樹, 楠本 真二: "ソースコード中の変数間のデータ依存関係を用いたコミットの分割", 電子情報通信学会技術研究報告, volume 113, number 269, pp. 67-72, 2013年 10月.
 
-## ポスター・デモ
+## Poster/Demo/Presentation
 
+1. 熊川 一平, **切貫 弘之**: "強力タッグで挑め！ “アジャイル時代”のソフトウェアテスト", NTTデータテクノロジーカンファレンス2023, 2023年 3月.
 1. 安達 悠, 倉林 利行, 吉村 優, **切貫 弘之**, 丹野 治門: "適切な画面識別に基づく画面遷移テストのスクリプト自動生成の試み", 第27回 ソフトウェア工学の基礎ワークショップ (ポスター), 2020年 11月.
 1. 丹野 治門, **切貫 弘之**, 安達 悠, 熊川 一平, 熊谷 尚俊, 峯尾 彩: "テスト活動ログの可視化に基づく効率性と客観性を両立させたテスト手法", ソフトウェアエンジニアリングシンポジウム 2020 (**<font color="#00b8d4">企業・ポスター賞</font>**).
 1. Yu Yoshimura, Yu Adachi, **Hiroyuki Kirinuki**, Toshiyuki Kurabayashi, and Haruto Tanno: "User-Friendly Input Assistance with Web Crawlingfor Test Script Generation", 13th IEEE Conference on Software Testing, Validation and Verification (ICST 2020, Tool Demos).
@@ -78,7 +79,7 @@ weight: 20
 1. 丹野 治門, **切貫 弘之**, 倉林 利行, 内藤 圭吾, 谷門 照斗, 柗本 真佑, 肥後 芳樹, 楠本 真二: "企業の開発現場におけるソフトウェアバグ同定技術の実現に向けて", ソフトウェアエンジニアリングシンポジウム 2018 (ポスター), 2018年 9月.
 1. **Hiroyuki Kirinuki**, Haruto Tanno, and Katsuyuki Natsukawa: "Interactive Repair of Test Scripts Using Various Clues in Web Application", The 11th IEEE Conference on Software Testing, Validation and Verification (ICST 2018, Tool Demos).
 
-## 学会誌・雑誌
+## Other Publications
 
 1. 丹野 治門, **切貫 弘之**, 川口 敬宏, 但馬 将貴, 生沼 守英, 村本 達也: "繰り返し型の効率的なテストを実現するテスト活動データ分析技術", NTT技術ジャーナル, Vol 34, No.2, pp.18-21, 2022年 2月. [[Link]](https://journal.ntt.co.jp/article/17191)
 1. Haruto Tanno, **Hiroyuki Kirinuki**, Yu Adachi, Morihide Oinuma, and Tatsuya Muramoto: "Test Automation Technology for Analyzing Test-activity Data and Detecting Bugs", NTT Technical Review, February 2021 Vol. 19 No. 2.
