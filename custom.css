@@ -76,6 +76,11 @@ body li {
 
 .year {
   padding: 0px !important;
+  width: 60px;
+}
+
+.year.hyphen {
+  width: 20px;
 }
 
 .desc {
