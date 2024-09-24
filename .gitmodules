@@ -1,4 +1,3 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/knukio/knukio.github.io.git
-	branch = master
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
