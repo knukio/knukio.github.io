@@ -5,10 +5,10 @@ weight: 40
 ---
 
 1. Yu Adachi, Haruto Tanno, **Hiroyuki Kirinuki**: Test support apparatus, test support method and program, [US20240211385A1](https://patents.google.com/patent/US20240211385A1/en).
-1. Hiroyuki Kirinuki, Haruto Tanno, Yu Adachi: Test support apparatus, test support method, and program, [US20240202109A1](https://patents.google.com/patent/US20240202109A1/en).
+1. **Hiroyuki Kirinuki**, Haruto Tanno, Yu Adachi: Test support apparatus, test support method, and program, [US20240202109A1](https://patents.google.com/patent/US20240202109A1/en).
 1. Yu Yoshimura, Yu Adachi, Haruto Tanno, **Hiroyuki Kirinuki**, Toshiyuki Kurabayashi: Operation pattern generation apparatus, operation pattern generation method and program, [US12001324B2](https://patents.google.com/patent/US12001324B2/en).
 1. Yu Adachi, Haruto Tanno, Yu Yoshimura, **Hiroyuki Kirinuki**, Toshiyuki Kurabayashi: Test data generation apparatus, test data generation method and program, [US12001325B2](https://patents.google.com/patent/US12001325B2/en).
-1. Hiroyuki Kirinuki, Haruto Tanno, Toshiyuki Kurabayashi: Test apparatus, test method and program, [US11960390B2](https://patents.google.com/patent/US11960390B2/en).
+1. **Hiroyuki Kirinuki**, Haruto Tanno, Toshiyuki Kurabayashi: Test apparatus, test method and program, [US11960390B2](https://patents.google.com/patent/US11960390B2/en).
 1. Toshiyuki Kurabayashi, Haruto Tanno, Yu Adachi, **Hiroyuki Kirinuki**, Yu Yoshimura: Screen transition consolidation apparatus, screen transition consolidation method and program, [US11934808B2](https://patents.google.com/patent/US11934808B2/en).
 1. Yu Yoshimura, Haruto Tanno, Yu Adachi, **Hiroyuki Kirinuki**, Toshiyuki Kurabayashi: Resembling transition identifying apparatus, resembling transition identifying method and program, [US11783116B2](https://patents.google.com/patent/US11783116B2/en).
 1. Toshiyuki Kurabayashi, **Hiroyuki Kirinuki**, Yu Yoshimura: Program generation apparatus, program generation method and program, [US20230342117A1](https://patents.google.com/patent/US20230342117A1/en).
