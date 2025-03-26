@@ -4,6 +4,12 @@ draft: false
 weight: 40
 ---
 
+1. Toshiyuki Kurabayashi, **Hiroyuki Kirinuki**, Yu Yoshimura: Program generation apparatus, program generation method and program, [US12236247B2](https://patents.google.com/patent/US12236247B2/en).
+1. Toshiyuki Kurabayashi, **Hiroyuki Kirinuki**, Yu Yoshimura: Program generation apparatus, program generation method and program, [US12229529B2](https://patents.google.com/patent/US12229529B2/en).
+1. Yu Adachi, Haruto Tanno, **Hiroyuki Kirinuki**, Yu Yoshimura, Toshiyuki Kurabayashi: Apparatus, method, and program for generating a test script for a web application based on screen transitions, [US12222845B2](https://patents.google.com/patent/US12222845B2/en).
+1. Toshiyuki Kurabayashi, **Hiroyuki Kirinuki**, Yu Yoshimura: Program generation apparatus, program generation method and program, [US12175215B2 - Program generation apparatus, program generation method and program - Google Patents](https://patents.google.com/patent/US12175215B2/en).
+1. Haruto Tanno, **Hiroyuki Kirinuki**, Toshiyuki Kurabayashi, Yu Yoshimura, Yu Adachi: Input value setting assisting apparatus, input value setting assisting method and program, [US12153942B2](https://patents.google.com/patent/US12153942B2/en).
+1. Yu Adachi, Haruto Tanno, Toshiyuki Kurabayashi, Yu Yoshimura, **Hiroyuki Kirinuki**: Test apparatus, test method and program, [US12141054B2](https://patents.google.com/patent/US12141054B2/en).
 1. Yu Adachi, Haruto Tanno, **Hiroyuki Kirinuki**: Test support apparatus, test support method and program, [US20240211385A1](https://patents.google.com/patent/US20240211385A1/en).
 1. **Hiroyuki Kirinuki**, Haruto Tanno, Yu Adachi: Test support apparatus, test support method, and program, [US20240202109A1](https://patents.google.com/patent/US20240202109A1/en).
 1. Yu Yoshimura, Yu Adachi, Haruto Tanno, **Hiroyuki Kirinuki**, Toshiyuki Kurabayashi: Operation pattern generation apparatus, operation pattern generation method and program, [US12001324B2](https://patents.google.com/patent/US12001324B2/en).

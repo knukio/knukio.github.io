@@ -71,6 +71,7 @@ weight: 20
 1. **切貫 弘之**, 堀田 圭佑, 肥後 芳樹, 楠本 真二: "ソースコード中の変数間のデータ依存関係を用いたコミットの分割", 電子情報通信学会技術研究報告, volume 113, number 269, pp. 67-72, 2013 年 10 月.
 
 ## Poster/Demo/Presentation
+1. **Hiroyuki Kirinuki**: "CEGen: Cause-Effect Graph Generation Using Large Language Models", 31st Asia-Pacific Software Engineering Conference (APSEC 2024).
 1. 秋信 有花, **切貫 弘之**: "LLM はソフトウェアプロダクトを人視点で評価できるのか？ ～新規性/有用性/偶発性の自動評価の実現に向けた調査～", ソフトウェアエンジニアリングシンポジウム (ポスター) 2024, 2024 年 9 月. (**<font color="#00b8d4">企業ポスター賞</font>**).
 1. **切貫 弘之**, 丹野 治門: "ChatGPT によるブラックボックステストおよび人間との協調可能性について", 第 30 回 ソフトウェア工学の基礎ワークショップ (ポスター), 2023 年 11 月 (**<font color="#00b8d4">ポスター・デモ賞</font>**).
 1. **切貫 弘之**: "LatteArt によるテストログの記録とそれを用いたメンテナンス性の高いテストスクリプト生成技術の紹介", [SHIFT Evolve 三社三様！テスト自動化アプローチのあれこれ共有会](https://shiftevolve.connpass.com/event/289248/), 2023 年 8 月.
