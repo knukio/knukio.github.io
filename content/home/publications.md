@@ -31,7 +31,7 @@ weight: 20
 
 1. 渡辺 大登, 柗本 真佑, 肥後 芳樹, 楠本 真二, 倉林 利行, **切貫 弘之**, 丹野 治門: "自動プログラム生成におけるプログラム依存を考慮した交叉の提案", 情報処理学会論文誌, Vol.65, No.3, pp.718-728, 2024.
 1. 渡辺 大登, 柗本 真佑, 肥後 芳樹, 楠本 真二, 倉林 利行, **切貫 弘之**, 丹野 治門: "自動プログラム生成に対する多目的遺伝的アルゴリズムの導入　–相補的な個体選択を目的として–", 情報処理学会論文誌, Vol.63, No.10, pp.1564-1573, 2022.
-1. 倉林 利行, 丹野 治門, **切貫 弘之**, 大島 剛志: "プログラム合成技術の動向調査", コンピュータソフトウェア, 2023, to appear.
+1. 倉林 利行, 丹野 治門, **切貫 弘之**, 大島 剛志: "プログラム合成技術の動向調査", コンピュータソフトウェア, 2023 vol.40, No.2, pp.95-128 (**<font color="#00b8d4">解説論文賞</font>**).
 1. **Hiroyuki Kirinuki** and Haruto Tanno: "Automating End-to-End Web Testing via Manual Testing", Journal of Information Processing, Vol. 30, pp. 294-306, 2022 (**<font color="#00b8d4">Specially Selected Paper</font>**). [[PDF]](https://www.jstage.jst.go.jp/article/ipsjjip/30/0/30_294/_pdf/-char/en)
 1. 肥後 芳樹, 柗本 真佑, 内藤 圭吾, 谷門 照斗, 楠本 真二, **切貫 弘之**, 倉林 利行, 丹野 治門:
    "設定ファイルを考慮した Fault Localization の拡張",

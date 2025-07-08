@@ -5,9 +5,8 @@ draft: false
 weight: 10
 ---
 
-2015年 大阪大学大学院情報科学研究科 博士前期課程修了。同年 NTT研究所に入社。<br>
-2023年 大阪大学大学院情報科学研究科 博士後期課程修了。<br>
-現在まで、実証的ソフトウェア工学を対象として、ソースコード解析、ソフトウェアテスト、ソフトウェア開発へのLLM活用の研究に従事。
+大阪大学大学院情報科学研究科 博士後期課程修了。博士（情報科学）。<br>
+NTT コンピュータ&データサイエンス研究所で実証的ソフトウェア工学を対象として、ソースコード解析、ソフトウェアテスト、ソフトウェア開発へのLLM活用の研究に従事。
 
 <a href="https://scholar.google.com/citations?hl=en&user=BCusIZwAAAAJ" class="icons8-google-scholar my-icon"></a>
 <a href="https://twitter.com/_knukio" class="icons8-twitter my-icon"></a>
