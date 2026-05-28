@@ -6,6 +6,7 @@ weight: 20
 
 ## International Conference
 
+1. **Hiroyuki Kirinuki**: "LLM-Assisted Cause-Effect Graph Generation for Requirements-Based Test Design", The 19th IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), Intelligent SE 2026.
 1. **Hiroyuki Kirinuki**, Masaki Tajima, Kei Wakabayashi: "XTestGen: Natural Language to Maintainable E2E Test Scripts with LLMs", The 41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025, Tool Demonstration Track).
 1. **Hiroyuki Kirinuki**: "CEGen: Cause-Effect Graph Generation Using Large Language Models", The 31st Asia-Pacific Software Engineering Conference (APSEC 2024, Poster).
 1. **Hiroyuki Kirinuki**, Masaki Tajima, Haruto Tanno: "LatteArt: A Platform for Recording and Analyzing Exploratory Testing", The 16th IEEE International Conference on Software Testing, Verification and Validation (ICST2023, Testing Tools Track).
@@ -47,7 +48,7 @@ weight: 20
 
 ## Domestic Conference
 
-1. **切貫 弘之**: "LM を用いた開発における設計文書を介したコード生成の有効性に関する調査", 2025 年度「ソフトウェア工学の基礎」研究会 (FOSE2025), 2025年 11月 (**<font color="#00b8d4">最優秀発表賞</font>**).
+1. **切貫 弘之**: "LLMを用いた開発における設計文書を介したコード生成の有効性に関する調査", 2025 年度「ソフトウェア工学の基礎」研究会 (FOSE2025), 2025年 11月 (**<font color="#00b8d4">最優秀発表賞</font>**).
 1. **切貫 弘之**, 但馬 将貴, 若林 慧: "自然言語のテストシナリオから保守性の高いテストスクリプトを自動生成する手法 ～Webエージェント技術を活用したアプローチ～", ソフトウェア品質シンポジウム 2025, 2025 年 9 月.
 1. **切貫 弘之**, 丹野 治門: "ChatGPT のブラックボックステストへの適用および人間との協働可能性についての調査", ソフトウェアエンジニアリングシンポジウム 2024, 2024 年 9 月 (**<font color="#00b8d4">研究奨励賞</font>**).
 1. 秋信 有花, **切貫 弘之**, 丹野 治門: "大規模言語モデルを活用したデータに基づくプロダクト改善案の自動推薦技術の検討", 人工知能学会全国大会論文集 第 38 回, 2024 年 5 月.
